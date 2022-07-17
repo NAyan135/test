@@ -1,0 +1,12 @@
+button{
+    padding: 30px;
+    border-radius: 8px;
+    border-color: green;
+    
+}
+p{
+    font-size: 20px;
+}
+focus:button{
+    border-color: aqua;
+}
