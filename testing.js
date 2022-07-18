@@ -1,4 +1,4 @@
-let wrld = document.querySelector('.btn');
+let wrld = document.querySelector('button');
 wrld.addEventListener('click', inputMsg);
 
 function inputMsg(){

@@ -2,11 +2,42 @@ button{
     padding: 30px;
     border-radius: 8px;
     border-color: green;
-    
+   background-color: antiquewhite;
 }
 p{
     font-size: 20px;
 }
 focus:button{
     border-color: aqua;
+}
+body{
+    background-color: whitesmoke;
+}
+.div1{
+    padding: 30px;
+
+}
+.fr{
+    text-align: center;
+   text-shadow: turquoise;
+   text-decoration-color: cyan;
+   text-transform: uppercase;
+   border: 3px dotted goldenrod;
+   border-radius: 3px;
+   background-color: aquamarine;
+    border-left-style: dotted;
+    float: left;
+}
+.div23{
+    margin: auto;
+    animation-iteration-count: infinite;
+    padding: 30px;
+    width: 60%;
+
+}
+.div2{
+     margin: auto;
+width: 60%;
+border: 3px solid #73AD21;
+padding: 10px;
 }
